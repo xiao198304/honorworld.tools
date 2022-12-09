@@ -1,0 +1,1 @@
+import{_ as e,a as o,o as n,b as a,w as c,n as s}from"./index.051b31e3.js";const r={},_=s("Login");function i(p,d){const t=o("van-button");return n(),a(t,{type:"primary"},{default:c(()=>[_]),_:1})}const m=e(r,[["render",i]]);export{m as default};
