@@ -1,0 +1,1 @@
+import{J as r,K as t}from"./index.6dbaba40.js";import{d as e}from"./utils.4e0e5ac2.js";const s="https://tools-1258577806.cos.ap-hongkong.myqcloud.com/honorworld/nftmarket/floorprice.json",c=r("hero",{state:()=>({floorprice:[]}),actions:{async initFloorprice(){let o=s+"?="+e().format("YYYYMMDDHHMM");this.floorprice=await t(o)}}}),n=c;export{n as u};
